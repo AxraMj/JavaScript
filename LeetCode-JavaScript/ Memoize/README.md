@@ -16,7 +16,7 @@ Creates a memoized version of the provided function `fn`.
 #### Returns:
 - (Function): A memoized version of the provided function `fn`.
 
-#### Methods:
+#### Methods::
 - `getCallCount()`: Returns the number of times the original function `fn` has been called.
 
 ## Example Functions
